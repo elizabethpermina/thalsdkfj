@@ -1,1 +1,1 @@
-this is my repo for practicing git commands
+some changes to readme
